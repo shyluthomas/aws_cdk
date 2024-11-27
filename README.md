@@ -23,3 +23,5 @@ setup the project
 
 # command to create project
 * cdk init app --language typescript
+
+## use warp ai terminal for this
