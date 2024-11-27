@@ -16,9 +16,10 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 setup the project
 
-install node js
-install aws cli
-install aws cdk
 
-command to create project
-cdk init app --language typescript
+* install node js
+* install aws cli
+* install aws cdk
+
+# command to create project
+* cdk init app --language typescript
